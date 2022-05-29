@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+.kofi{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 24px;
+    background: linear-gradient(rgb(90, 89, 89), black 48% );
+    padding: 8px 0px 8px 100px;
+    color: azure;
+}
+.img{
+    background: url(hero-bcg.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 92vh;
+}
+.art{
+    padding:60px 0px 0px 100px;
+    width: 500px;
+    color: azure;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.coffee{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+span{
+    border: 1px solid white;
+    padding: 8px 24px 8px 24px;
+    font-family: 'Roboto', sans-serif;
+}
